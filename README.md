@@ -51,7 +51,7 @@ As a Data Analyst passionate about storytelling with data, I created this Power 
 ---
 ## 🖼️ Dashboard Overview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 
 
