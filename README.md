@@ -59,7 +59,7 @@ As a Data Analyst passionate about storytelling with data, I created this Power 
 ## 🔗 Connect with Me
 
 💼 LinkedIn: [Olamide Janet](https://www.linkedin.com/in/olamide-janet)  
-📧 Email: [olamidetheanalyst@gmail.com](mailto:olamidetheanalyst@gmail.com)
+📧 Email: [olamidetheanalyst@gmail.com](mailto:olamidedanalyst@gmail.com)
 
 If you find this dashboard insightful, feel free to ⭐ this repository and connect!
 
