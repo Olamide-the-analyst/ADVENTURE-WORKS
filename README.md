@@ -1,4 +1,4 @@
-# ADVENTURE-WORKS
+# ADVENTURE WORKS ANALYSIS
 # 🚲 AdventureWorks Sales Dashboard
 
 Welcome to my **AdventureWorks Sales Analysis** project! This interactive dashboard is designed to provide a comprehensive overview of sales performance using the AdventureWorks dataset—a fictional company selling bikes and accessories.
@@ -35,9 +35,8 @@ As a Data Analyst passionate about storytelling with data, I created this Power 
 ## 🛠️ Tools Used
 
 - **Power BI** – For dashboard creation and visual analytics  
-- **DAX** – For calculated measures (e.g., return rate, profit margin)  
-- **SQL Server** – For querying and extracting the AdventureWorks database  
-- **Excel** – For initial data profiling and cleaning
+- **DAX** – For calculated measures (e.g., return rate, profit margin)   
+- **Power Query** – For data profiling, data transformation and data cleaning
 
 ---
 
