@@ -1,7 +1,7 @@
 # ADVENTURE WORKS ANALYSIS
 # 🚲 AdventureWorks Sales Dashboard
 
-Welcome to my **AdventureWorks Sales Analysis** project! This interactive dashboard is designed to provide a comprehensive overview of sales performance using the AdventureWorks dataset—a fictional company selling bikes and accessories.
+Welcome to my **AdventureWorks Sales Analysis** project! This interactive dashboard is designed to provide a comprehensive overview of sales performance using the AdventureWorks dataset. Adventure works is a fictional company selling bikes and accessories.
 
 ---
 
